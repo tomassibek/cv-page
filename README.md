@@ -1,2 +1,3 @@
-# cv-page
-Curriculum vitæ – jednoduchá www stránka
+# Tomáš Síbek
+## Curriculum vitæ
+Jednoduchá www stránka se stručným životopisem.
